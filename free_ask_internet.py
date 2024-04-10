@@ -180,7 +180,7 @@ def ask_internet(query:str,  debug=False):
             total_token += token
             yield token
     yield "\n\n"
-    # 是否返回参考资料
+
     if True:
         yield "---"
         yield "\n"
