@@ -1,7 +1,7 @@
 # FreeAskInternet
 
 
-> Running CHATGPT like app complete FREE, LOCAL, PRIVATE and NO GPU NEED on any computer
+> Running CHATGPT like app complete FREE, LOCAL, PRIVATE and NO GPU NEED on any computer.
 
 
 > [!IMPORTANT]  
